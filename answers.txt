@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Biology because in research a lot of data is generated. Visualizing and aligning gene sequences would be a perfect example because they are long and complex.
