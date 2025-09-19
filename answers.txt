@@ -6,3 +6,8 @@ Answer: Good to collaborate with other people. There are a lot of tools and its 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Biology because in research a lot of data is generated. Visualizing and aligning gene sequences would be a perfect example because they are long and complex.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge is when you combine two things and rebase redefines it. Adding two things versus replacing it basically. 
